@@ -1,0 +1,69 @@
+INSERT INTO Students (
+    Student_id, Phonenumber, name, Dateofbirth, Aptnumber, street,Dno
+    )
+    VALUES (
+    101, '806-419-1042', 'Martin', '7/2/1999', 3, mainstreet,1
+    );
+
+INSERT INTO Students (
+    Student_id, Phonenumber, name, Dateofbirth, Aptnumber, street,Dno
+    )
+    VALUES (
+    102, '806-419-1242', 'shash', '1/2/1999', 2, mainstreet,2
+    );
+
+INSERT INTO Students (
+    Student_id, Phonenumber, name, Dateofbirth, Aptnumber, street,Dno
+    )
+    VALUES (
+    103, '806-519-1242', 'joemama', '1/12/1999', 2, mainstreet,2
+    );
+
+INSERT INTO Students (
+    Student_id, Phonenumber, name, Dateofbirth, Aptnumber, street,Dno
+    )
+    VALUES (
+    104, '806-519-1111', 'karma', '6/12/1999', 2, mainstreet,2
+    );
+
+INSERT INTO Students (
+    Student_id, Phonenumber, name, Dateofbirth, Aptnumber, street,Dno
+    )
+    VALUES (
+    105, '806-669-1242', 'jhin', '1/8/1999', 2, mainstreet,2
+    );
+
+INSERT INTO Students (
+    Student_id, Phonenumber, name, Dateofbirth, Aptnumber, street,Dno
+    )
+    VALUES (
+    106, '806-669-4444', 'ryze', '1/7/1999', 4, mainstreet,1
+    );
+
+INSERT INTO Students (
+    Student_id, Phonenumber, name, Dateofbirth, Aptnumber, street,Dno
+    )
+    VALUES (
+    107, '806-669-6666', 'nasus', '1/6/1999', 4, mainstreet,1
+    );
+
+INSERT INTO Students (
+    Student_id, Phonenumber, name, Dateofbirth, Aptnumber, street,Dno
+    )
+    VALUES (
+    108, '806-669-8888', 'jinx', '1/5/1999', 4, mainstreet,1
+    );
+
+INSERT INTO Students (
+    Student_id, Phonenumber, name, Dateofbirth, Aptnumber, street,Dno
+    )
+    VALUES (
+    109, '806-669-9999', 'vi', '1/4/1999', 4, mainstreet,1
+    );
+
+INSERT INTO Students (
+    Student_id, Phonenumber, name, Dateofbirth, Aptnumber, street,Dno
+    )
+    VALUES (
+    110, '806-999-9999', 'victor', '1/3/1999', 2, mainstreet,1
+    );

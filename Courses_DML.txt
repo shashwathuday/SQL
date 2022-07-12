@@ -1,0 +1,34 @@
+INSERT INTO Courses (
+    C_id, C_name,C_number
+    )
+    VALUES (
+    101, 'Math','1'
+    );
+
+INSERT INTO Courses (
+    C_id, C_name,C_number
+    )
+    VALUES (
+    102, 'Math','1'
+    );
+
+INSERT INTO Courses (
+    C_id, C_name,C_number
+    )
+    VALUES (
+    101, 'science','1'
+    );
+
+INSERT INTO Courses (
+    C_id, C_name,C_number
+    )
+    VALUES (
+    103, 'science','1'
+    );
+
+INSERT INTO Courses (
+    C_id, C_name,C_number
+    )
+    VALUES (
+    102, 'admin','2'
+    );

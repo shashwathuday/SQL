@@ -1,0 +1,73 @@
+SELECT *
+FROM Students;
+ 
+101 806-419-1042 Martin 7/2/1999 3 mainstreet 1
+102 806-419-1242 shash 1/2/1999 2 mainstreet 2
+103 806-519-1242 joemama 1/12/1999 2 mainstreet 2
+104 806-519-1111 karma 6/12/1999 2 mainstreet 2
+105 806-669-1242 jhin 1/8/1999 2 mainstreet 2
+106 806-669-4444 ryze 1/7/1999 4 mainstreet 1
+107 806-669-6666 nasus 1/6/1999 4 mainstreet 1
+108 806-669-8888 jinx 1/5/1999 4 mainstreet 1
+109 806-669-9999 vi 1/4/1999 4 mainstreet 1
+110 806-999-9999 victor 1/3/1999 3 mainstreet 1
+
+SELECT *
+FROM Department;
+
+101 Research 1
+102 Admintration 2
+
+
+SELECT *
+FROM Instructor;
+
+111 806-456-1042 elonmusk 7/6/1989 1 mainstreet1 
+112 806-765-1042 jeffbezoz 7/6/1979 2 mainstreet3
+113 806-135-1042 yasou 1/6/1979 3 mainstreet3
+114 806-235-1042 caitlin 2/6/1979 4 mainstreet3
+115 806-435-1042 renekton 3/6/1979 5 mainstreet3
+116 806-535-1042 volibear 4/6/1979 6 mainstreet3
+117 806-635-1042 leesin 5/6/1979 7 mainstreet3
+118 806-735-1042 darius 6/6/1979 8 mainstreet3
+119 806-835-1042 draven 7/6/1979 9 mainstreet3
+120 806-935-1042 riven 8/6/1979 10 mainstreet3 
+
+SELECT *
+FROM Grades;
+
+101 A
+102 A
+103 B
+104 B
+105 B
+106 B
+107 A
+108 A
+109 A
+110 A
+
+SELECT *
+FROM Courses;
+
+101 Math 1
+102 Math 1
+101 science 1
+103 science 1
+102 admin 2
+
+SELECT Student_id, name, Letter_grade
+From Students, Grades;
+
+101 Martin A 
+102 shash A
+103 joemama B
+104 karma B
+105 jhin B 
+106 ryze B
+107 nasus A 
+108 jinx A 
+109 vi A
+110 victor A
+
+

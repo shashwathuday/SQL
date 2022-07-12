@@ -1,0 +1,77 @@
+INSERT INTO Instructor (
+    Instructor_id, Phonenumber, name, Dateofbirth, Aptnumber, street
+    )
+    VALUES (
+    111, '806-456-1042', 'elonmusk', '7/6/1989', 1, mainstreet1
+    );
+
+INSERT INTO Instructor (
+    Instructor_id, Phonenumber, name, Dateofbirth, Aptnumber, street
+    )
+    VALUES (
+    112, '806-765-1042', 'jeffbezoz', '7/6/1979', 2, mainstreet3
+    );
+
+
+INSERT INTO Instructor (
+    Instructor_id, Phonenumber, name, Dateofbirth, Aptnumber, street
+    )
+    VALUES (
+    113, '806-135-1042', 'yasou', '1/6/1979', 3, mainstreet3
+    );
+
+
+INSERT INTO Instructor (
+    Instructor_id, Phonenumber, name, Dateofbirth, Aptnumber, street
+    )
+    VALUES (
+    114, '806-235-1042', 'caitlin', '2/6/1979', 4, mainstreet3
+    );
+
+
+INSERT INTO Instructor (
+    Instructor_id, Phonenumber, name, Dateofbirth, Aptnumber, street
+    )
+    VALUES (
+    115, '806-435-1042', 'renekton', '3/6/1979', 5, mainstreet3
+    );
+
+
+INSERT INTO Instructor (
+    Instructor_id, Phonenumber, name, Dateofbirth, Aptnumber, street
+    )
+    VALUES (
+    116, '806-535-1042', 'volibear', '4/6/1979', 6, mainstreet3
+    );
+
+
+INSERT INTO Instructor (
+    Instructor_id, Phonenumber, name, Dateofbirth, Aptnumber, street
+    )
+    VALUES (
+    117, '806-635-1042', 'leesin', '5/6/1979', 7, mainstreet3
+    );
+
+
+INSERT INTO Instructor (
+    Instructor_id, Phonenumber, name, Dateofbirth, Aptnumber, street
+    )
+    VALUES (
+    118, '806-735-1042', 'darius', '6/6/1979', 8, mainstreet3
+    );
+
+
+INSERT INTO Instructor (
+    Instructor_id, Phonenumber, name, Dateofbirth, Aptnumber, street
+    )
+    VALUES (
+    119, '806-835-1042', 'draven', '7/6/1979', 9, mainstreet3
+    );
+
+
+INSERT INTO Instructor (
+    Instructor_id, Phonenumber, name, Dateofbirth, Aptnumber, street
+    )
+    VALUES (
+    120, '806-935-1042', 'riven', '8/6/1979', 10, mainstreet3
+    );

@@ -1,0 +1,13 @@
+INSERT INTO Department (
+    D_id, Dname,Dnumber
+    )
+    VALUES (
+    101, 'Research', '1'
+    );
+
+INSERT INTO Department (
+    D_id, Dname,Dnumber
+    )
+    VALUES (
+    102, 'Admintration', '2'
+    );

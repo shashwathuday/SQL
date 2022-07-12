@@ -1,0 +1,33 @@
+CREATE TABLE Students(
+Student_id Int PRIMARY KEY,
+Phonenumber Varchar(200),
+name Varchar(200),
+Dateofbirth Varchar(200),
+Aptnumber Varchar(200)
+street Varchar(200)
+Dno Varchar(200),
+FOREIGN KEY (Dno) );
+
+CREATE TABLE Department(
+D_id Int PRIMARY KEY,
+Dname Varchar(200),
+D_number Varchar(200),
+FOREIGN KEY (D_number) );
+
+CREATE TABLE Grades(
+G_number Int PRIMARY KEY,
+Letter_grade Varchar(200));
+
+CREATE TABLE Instructor(
+Instructor_id Int PRIMARY KEY,
+Phonenumber Varchar(200),
+name Varchar(200),
+Dateofbirth Varchar(200),
+Aptnumber Varchar(200),
+street Varchar(200));
+
+CREATE TABLE Courses(
+C_id Int PRIMARY KEY,
+C_name Varchar(200),
+C_number Varchar(200),
+FOREIGN KEY (C_number));

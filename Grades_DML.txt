@@ -1,0 +1,71 @@
+INSERT INTO Grades (
+    G_number, Letter_grade
+    )
+    VALUES (
+    101, 'A'
+    );
+
+
+INSERT INTO Grades (
+    G_number, Letter_grade
+    )
+    VALUES (
+    102, 'A'
+    );
+
+
+INSERT INTO Grades (
+    G_number, Letter_grade
+    )
+    VALUES (
+    103, 'B'
+    );
+
+INSERT INTO Grades (
+    G_number, Letter_grade
+    )
+    VALUES (
+    104, 'B'
+    );
+
+INSERT INTO Grades (
+    G_number, Letter_grade
+    )
+    VALUES (
+    105, 'B'
+    );
+
+INSERT INTO Grades (
+    G_number, Letter_grade
+    )
+    VALUES (
+    106, 'B'
+    );
+
+INSERT INTO Grades (
+    G_number, Letter_grade
+    )
+    VALUES (
+    107, 'A'
+    );
+
+INSERT INTO Grades (
+    G_number, Letter_grade
+    )
+    VALUES (
+    108, 'A'
+    );
+
+INSERT INTO Grades (
+    G_number, Letter_grade
+    )
+    VALUES (
+    109, 'A'
+    );
+
+INSERT INTO Grades (
+    G_number, Letter_grade
+    )
+    VALUES (
+    110, 'A'
+    );
